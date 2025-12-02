@@ -1,6 +1,6 @@
 {
   "name": "next-preview-qr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Expo-style QR code preview for Next.js dev server",
   "main": "src/index.js",
   "type": "commonjs",
