@@ -1,0 +1,46 @@
+{
+  "name": "next-preview-qr",
+  "version": "1.0.0",
+  "description": "Expo-style QR code preview for Next.js dev server",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "bin": {
+    "next-preview-qr": "bin/next-preview-qr.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test/basic.js"
+  },
+  "keywords": [
+    "nextjs",
+    "next.js",
+    "qr-code",
+    "preview",
+    "development",
+    "expo",
+    "mobile",
+    "dev-server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/next-preview-qr.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "open": "^8.4.2",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
