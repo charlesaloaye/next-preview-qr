@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/next-preview-qr.git"
+    "url": "git+https://github.com/charlesaloaye/next-preview-qr.git"
   },
   "dependencies": {
     "chalk": "^4.1.2",
